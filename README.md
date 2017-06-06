@@ -1,1 +1,1 @@
-# mosh
+# angular2-course
